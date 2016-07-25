@@ -1,0 +1,1 @@
+Projekt obliczający minimalną i maksymalna wagę dzieci na kolonii oraz medianę.
